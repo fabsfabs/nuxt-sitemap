@@ -2,22 +2,22 @@
   "sitemap": [
     {
       "en":"posts/1",
-      "it":"articoli/1/",
+      "it":"articoli/1/"
     },{
       "en":"posts/2",
-      "it":"articoli/2/",
+      "it":"articoli/2/"
     },{
       "en":"posts/3/",
-      "it":"articoli/3/",
+      "it":"articoli/3/"
     },{
       "en":"posts/4/",
-      "it":"articoli/4/",
+      "it":"articoli/4/"
     },{
       "en":"posts/4/",
-      "it":"articoli/4/",
+      "it":"articoli/4/"
     },{
       "en":"about-us/",
-      "it":"chi-siamo/",
+      "it":"chi-siamo/"
     }
   ]
 }
