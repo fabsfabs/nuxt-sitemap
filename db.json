@@ -1,20 +1,60 @@
 {
-  "sitemap": [
+  "posts": [
     {
-      "en":"posts/1/",
-      "it":"articoli/1/"
-    },{
-      "en":"posts/2",
-      "it":"articoli/2/"
-    },{
-      "en":"posts/3/",
-      "it":"articoli/3/"
-    },{
-      "en":"posts/4/",
-      "it":"articoli/4/"
-    },{
-      "en":"about-us/",
-      "it":"chi-siamo/"
-    }
-  ]
+      "id":"1",
+      "author": "Ramit Sethi",
+      "title": "EN - I’ve updated my best-selling book. Here’s what’s new and what to expect",
+      "description": "Ten years ago, I published my book, “I Will Teach You to Be Rich.” Do you remember what also happened 10 years ago? In March 2009, we were in the depths of a once-in-a-lifetime financial crisis and full-blown recession. Chances … Continued I’ve updated my bes…",
+      "slug": "ive-updated-my-best-selling-book-heres-whats-new-and-what-to-expect/",
+      "urlToImage": "https://cdn.iwillteachyoutoberich.com/wp-content/uploads/ACP_email.png",
+      "publishedAt": "2019-04-26T16:52:10Z",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet vel doloremque dolorem, laborum, modi fuga, rem ab accusantium delectus enim esse ullam ex. Error, sunt! Maxime cum laudantium at dolore.",
+      "follow": "follow",
+      "index": "noindex"
+    },
+    {
+      "id": "2",
+      "author": "Aaron Levie",
+      "title": "EN - A new era for enterprise IT – TechCrunch",
+      "description": "Amidst the newly minted scooter unicorns, ebbs and flows of bitcoin investments and wagers on the price of Uber's IPO, another trend has shaken up the tech industry: enterprise software successes.",
+      "slug": "a-new-era-for-enterprise-it/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/A-New-Era-for-Enterprise-IT.png?w=641",
+      "publishedAt": "2019-04-26T16:49:43Z",
+      "content": "More posts by this contributor\r\nAmidst the newly minted scooter unicorns, ebbs and flows of bitcoin investments and wagers on the price of Uber’s IPO, another trend has shaken up the tech industry: the explosion of enterprise software successes.\r\nBessemer not… [+5694 chars]",
+      "follow": "follow",
+      "index": "index"
+    },
+    {
+      "id": "3",
+      "author": "P. H. Madore",
+      "title": "EN - Fake California Cop Racket Targets Victims in Bitcoin Phone Scam",
+      "description": "By CCN.com: A notice on the official website for the City of Berkeley police department warns residents of phone scams involving Bitcoin. Calling them “cyber-enabled fraud crime,” the post talks about a woman who scammers attempted to victimize via telephone …",
+      "slug": "california-police-warn-of-bitcoin-phone-scams",
+      "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/04/Police-cop-stock.jpg",
+      "publishedAt": "2019-04-26T16:49:21Z",
+      "content": "By CCN.com: A notice on the official website for the City of Berkeley police department warns residents of phone scams involving Bitcoin. Calling them cyber-enabled fraud crime, the post talks about a woman who scammers attempted to victimize via telephone ev… [+2419 chars]",
+      "follow": "follow",
+      "index": "index"
+    },
+    {
+      "id": "4",
+      "author": "https://www.facebook.com/greg.jaffe.5, https://www.facebook.com/missy.ryan, https://www.facebook.com/nmiroff",
+      "title": "EN - Pentagon set to expand military role along southern border",
+      "description": "Acting defense secretary Patrick Shanahan is expected to approve exceptions to rules barring troops from interacting with migrants.",
+      "slug": "https://www.washingtonpost.com/world/national-security/pentagon-set-to-expand-military-role-along-southern-border/2019/04/26/f2b04666-682a-11e9-82ba-fcfeff232e8f_story.html",
+      "urlToImage": "https://www.washingtonpost.com/resizer/YOBhfhVfPc-AzvMoU4BlYTXZppg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7VHF3TIGMI6TCMFJTZQCR55ZI.jpg",
+      "publishedAt": "2019-04-26T14:52:25+00:00",
+      "content": "The Pentagon is preparing to approve a loosening of rules that bar troops from interacting with migrants entering the United States, expanding the militarys involvement in President Trumps operation along the southern border.\r\nSenior Defense Department offici… [+3051 chars]",
+      "follow": "follow",
+      "index": "index"
+    }     
+  ],
+  "about": {
+    "title": "About us",
+    "description": "Acting defense secretary Patrick Shanahan is expected to approve",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit pariatur facere eligendi qui repellendus suscipit, non culpa quidem est ex eveniet eum doloribus! Eius consequatur, incidunt eaque officia magni iure! ",
+    "slug": "about-us",
+      "follow": "follow",
+      "index": "index"
+  }
 }
