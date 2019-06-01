@@ -2,31 +2,59 @@
   "sitemap": [
     {
       "it":"/",
-      "en":"/"   
+      "en":"/",
+      "changefreq": "daily",
+      "priority": "1",
+      "lastmod": "01/06/2019",
+      "lastmodrealtime":"true"
     },    
     {
       "it":"/it/",
-      "en":"/en/"     
+      "en":"/en/",
+      "changefreq": "daily",
+      "priority": "1",
+      "lastmod": "01/06/2019",
+      "lastmodrealtime":"true"      
     },
     {
       "it":"/it/articoli/1/",          
-      "en":"/en/posts/1/"
+      "en":"/en/posts/1/",
+      "changefreq": "daily",
+      "priority": "1",
+      "lastmod": "01/06/2019",
+      "lastmodrealtime":"true"      
     },
     {
       "it":"/it/articoli/2/",      
-      "en":"/en/posts/2/"
+      "en":"/en/posts/2/",
+      "changefreq": "daily",
+      "priority": "1",
+      "lastmod": "01/06/2019",
+      "lastmodrealtime":"true"      
     },
     {
       "it":"/it/articoli/3/",      
-      "en":"/en/posts/3/"
+      "en":"/en/posts/3/",
+      "changefreq": "daily",
+      "priority": "1",
+      "lastmod": "01/06/2019",
+      "lastmodrealtime":"true"      
     },
     {
       "it":"/it/articoli/4/",      
-      "en":"/en/posts/4/"      
+      "en":"/en/posts/4/",
+      "changefreq": "daily",
+      "priority": "1",
+      "lastmod": "01/06/2019",
+      "lastmodrealtime":"true"      
     },
     {
       "en":"/it/chi-siamo/",            
-      "it":"/en/about-us/"
+      "it":"/en/about-us/",
+      "changefreq": "daily",
+      "priority": "1",
+      "lastmod": "01/06/2019",
+      "lastmodrealtime":"true"      
     }
   ]
 }
